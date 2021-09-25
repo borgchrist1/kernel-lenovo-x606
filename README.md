@@ -1,0 +1,1 @@
+# kernel-lenovo-x606
